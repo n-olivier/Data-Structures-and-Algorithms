@@ -1,0 +1,76 @@
+Hello People! For your final project for Data Structures and Algorithms, you will be working in teams.
+Teams have a maximum of three members and a minimum of two members. Below is a list of the teams.
+Look out for your name to identify who you will be working with on this project.
+Also, look out for more details about the final project. You will receive it a few days after submitting this assignment.
+
+Innocent Ingabire, Mamady Kante
+
+John Taiwo Temidayo, Maysa Yankiekilo
+
+David Kwizera, Fulgence Muhirwa
+
+Christian Niyokwizerwa, Anthony Sakala
+
+Peres Atieno Ogayo, Ian Odhiambo Obutho
+
+Andre Victorien Bidias Omang, Izuchukwu Evans Echesirim
+
+Fono Kevin Larry Fotso, Pacifique Uwimanzi
+
+Jinet Atieno Onyango, Valentin Niyonshuti
+
+Bertrand Yves Abayizera, David Masupa
+
+Massamaesso Narouwa, William Mutua Peter
+
+Nehemie Niyomahoro, Theoneste Nsanzabarinda
+
+Kevin Sebineza, Alliance Mbonigaba
+
+Edwin Omondi Mariwa, Musa Selekie Kanneh
+
+Nadia Uwase, Comfort Bigg Sibanda
+
+Francois Regis Habuwiteka, Anthony Kwabena Baah
+
+Isimbi Bonita, Uchechukwu Thaddeus Onyeka
+
+Samiratu Ntohsi, Joyce Njeri
+
+Kolotioloma Soro, Yves Mugenga
+
+Mary Nyoro, Mwiza Sembeye
+
+Lhet Mombonhinhi Magnan, Ernest Mucyo Nzivugira
+
+Olivier Nshimiyimana, Erastus Cheruiyot Kirui
+
+Pax Elisee Mfura, Gerald Nderitu Ndungu
+
+Oluwarotimi Emma Adesina, Francois Regis Ishimwe
+
+Moise Uwumukiza Rubibi, Wesley Clyde Fenjo Sitati
+
+Enosh Mogire Nyarige, Mohamed Chadi Assoualma
+
+Herve Musangwa, Enoch Muhoro Kamau
+
+Kudakwashe Mavuru, Ivan Iyamarere
+
+Kelvin Kinda Chumbe, Judith Tsitsi Chatiza
+
+Diane Tuyizere, Teta Orrietta
+
+Crepin Gontran Kayisire, Deogratias Amani
+
+Kevin Gautier Kayisire, Patrick Nsengumuremyi
+
+Nathan Kudakwashe Kuchena, Elie Kagabo
+
+Nnadozie Ugonna Ebere, Jules Iradukunda
+
+Nelson Francis Bassey, Fabrice Niyimpaye
+
+Enock Rutunda, Abdoulaye Kante, Christian Rebero Twahirwa
+
+Mary Wanjiru Mwangi, Edosa Kinfe Leta, Magura Ceaser Alfred Riruyo
